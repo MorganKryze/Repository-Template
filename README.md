@@ -95,7 +95,7 @@ If necessary, provide a description of the most important files of the project.
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+If you want to contribute to the project, you can follow the steps described in the [CONTRIBUTING](CONTRIBUTING) file.
 
 ## License
 
