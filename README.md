@@ -44,6 +44,10 @@ Detail here the instructions to build and run the project.
 
 Detail here the instructions to use the project.
 
+### Troubleshooting
+
+Detail here the troubleshooting of the project.
+
 ### Project structure
 
 Here are the most important files and directories of the project( you may ignore the other files and directories):
