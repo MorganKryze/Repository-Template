@@ -50,7 +50,7 @@ Detail here the troubleshooting of the project.
 
 ### Project structure
 
-Here are the most important files and directories of the project( you may ignore the other files and directories):
+Here are the most important files and directories of the project (you may ignore the other files and directories):
 
 ```plaintext
 Repository-Template
