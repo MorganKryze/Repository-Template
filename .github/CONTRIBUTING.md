@@ -59,11 +59,7 @@ All contributions should follow the [GitFlow](https://www.atlassian.com/git/tuto
 
 ## Archiving
 
-Each project within the DeVinci Fablab organization should be archived when it is no longer maintained. This includes projects that have been completed or abandoned.
-
-## Licensing
-
-All public projects within the DeVinci Fablab organization are licensed under the [MIT License](../LICENSE).
+Each project should be archived when it is no longer maintained. This includes projects that have been completed or abandoned.
 
 ---
 

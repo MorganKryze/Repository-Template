@@ -88,7 +88,7 @@ Detail here the troubleshooting of the project.
 
 ### Contributing
 
-If you want to contribute to the project, you can follow the steps described in the [CONTRIBUTING](./.github/CONTRIBUTING) file.
+If you want to contribute to the project, you can follow the steps described in the [CONTRIBUTING](./.github/CONTRIBUTING.md) file.
 
 ### License
 

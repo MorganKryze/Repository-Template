@@ -31,7 +31,7 @@ When creating an issue, please provide as much relevant information as possible,
 
 ## Code of Conduct
 
-We expect all contributors and users to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please be respectful and considerate when interacting with others in this community.
+We expect all contributors and users to adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md). Please be respectful and considerate when interacting with others in this community.
 
 > [!NOTE]
 > This support repository is monitored regularly, and we will do our best to respond to your inquiries as soon as possible.
